@@ -1,0 +1,13 @@
+#imag{
+	text-align:center;
+}
+
+header{
+	border: 1px solid silver;
+	width:35%;
+	height: 150px;
+	margin: auto;
+	background-color: silver;
+	box-shadow: 5px 5px 5px orange;
+
+}
